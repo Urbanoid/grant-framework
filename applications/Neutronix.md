@@ -39,7 +39,17 @@
 
 ### Roadmap
 
-> Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
+> Phase 1: Alignment & Strategic Onboarding (Timeline: Week 1-4) = $0
+> 
+> Phase 2: Foundation Building in Canada (Timeline: Month 2-4) = $7,000
+> 
+> Phase 3: Regulatory Engagement Track (Timeline: Month 3-12) = $7,000
+> 
+> Phase 4: Consulting & Tokenization Services (Timeline: Month 4-12) = $10,000
+> 
+> Phase 5: Neutronix Labs Innovation Track (Parallel Timeline: Month 4-12) = $10,000
+> 
+> Phase 6: Pilot + Proof of Value (Timeline: Month 6-12) = $8,000
 
 ### Milestones
 
