@@ -39,7 +39,7 @@
 
 ### Roadmap
 
-> Phase 1: Alignment & Strategic Onboarding (Timeline: Week 1-4) = $0
+> Phase 1: Alignment & Strategic Onboarding (Timeline: Week 1-4)
 > 
 > Phase 2: Foundation Building in Canada (Timeline: Month 2-4) = $7,000
 > 
@@ -51,47 +51,64 @@
 > 
 > Phase 6: Pilot + Proof of Value (Timeline: Month 6-12) = $8,000
 
+> <br />
+
 ### Milestones
 
-> Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the XPR Network ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+Milestone
+Estimated
 
-> For each milestone make sure to include detailed specification of your software. Include the amount of funding requested per milestone, as well as the number of full-time employees working on each milestone. This information should be included in the milestone deliverables.
+> Milestone 1: Alignment & Strategic Onboarding
+> Estimated duration: 1 month
+> FTE: 1
+> Costs: 0 USD
 
-> FTE: Full-Time Equivalent (Number of people working on the project on a full-time basis)
 
-> Total Costs: This should be the requested amount in USD for the whole project milestone. If the grant is paid out in XPR the amount will be calculated based on the XPR/USD exchange rate on the time of payment.
 
-### Milestone Example
+  
+Introductory Video Call with Metallicus leadership
+- Align on mission, expectations, boundaries, and initial scope for Canada
+  
+On-Site Visit to San Francisco
+- Deep dive into Metal Blockchain tech stack, product suite, and regulatory positioning
+- Messaging guidance, technical enablement, and go-to-market (GTM) best practices for engaging financial institutions (strategy playbook)
 
-- **Milestone:** 1: Alignment & Strategic Onboarding
-- **Estimated duration:** 1 month
-- **FTE:**  1
-- **Costs:** 0 USD
+> <br />
 
-- **Milestone:** 2: Alignment & Strategic Onboarding
-- **Estimated duration:** 1 month
-- **FTE:**  1
-- **Costs:** 0 USD
+- Milestone 2: Alignment & Strategic Onboarding
+- Estimated duration: 3 months
+- FTE: 1
+- Costs: 0 USD
 
-- **Milestone:** 3: Alignment & Strategic Onboarding
-- **Estimated duration:** 1 month
-- **FTE:**  1
-- **Costs:** 0 USD
+> <br />
 
-- **Milestone:** 4: Alignment & Strategic Onboarding
-- **Estimated duration:** 1 month
-- **FTE:**  1
-- **Costs:** 0 USD
+- Milestone 3: Alignment & Strategic Onboarding
+- Estimated duration: 10 months
+- FTE: 1
+- Costs: 0 USD
 
-- **Milestone:** 5: Alignment & Strategic Onboarding
-- **Estimated duration:** 1 month
-- **FTE:**  1
-- **Costs:** 0 USD
+> <br />
 
-- **Milestone:** 6: Alignment & Strategic Onboarding
-- **Estimated duration:** 1 month
-- **FTE:**  1
-- **Costs:** 0 USD
+- Milestone 4: Alignment & Strategic Onboarding
+- Estimated duration: 9 months
+- FTE: 1
+- Costs: 0 USD
+
+> <br />
+
+- Milestone 5: Alignment & Strategic Onboarding
+- Estimated duration: 9 months
+- FTE: 1
+- Costs: 0 USD
+
+> <br />
+
+- Milestone 6: Alignment & Strategic Onboarding
+- Estimated duration: 6 months
+- FTE: 1
+- Costs: 0 USD
+
+> <br />
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
