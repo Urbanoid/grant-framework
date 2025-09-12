@@ -53,61 +53,62 @@
 
 > <br />
 
-### Milestones
-
-Milestone
-Estimated
-
-> Milestone 1: Alignment & Strategic Onboarding
-> Estimated duration: 1 month
-> FTE: 1
-> Costs: 0 USD
-
-
-
-  
-Introductory Video Call with Metallicus leadership
+**Milestone 1**: Alignment & Strategic Onboarding
+- Estimated duration: 1 month
+- FTE: 1
+- Costs: 0 USD
+> Introductory Video Call with Metallicus leadership
 - Align on mission, expectations, boundaries, and initial scope for Canada
-  
-On-Site Visit to San Francisco
+> On-Site Visit to San Francisco
 - Deep dive into Metal Blockchain tech stack, product suite, and regulatory positioning
 - Messaging guidance, technical enablement, and go-to-market (GTM) best practices for engaging financial institutions (strategy playbook)
 
 > <br />
-
-- Milestone 2: Alignment & Strategic Onboarding
-- Estimated duration: 3 months
-- FTE: 1
-- Costs: 0 USD
-
 > <br />
 
-- Milestone 3: Alignment & Strategic Onboarding
+**Milestone 2**: Foundation Building in Canada
+- Estimated duration: 3 month
+- FTE: 1
+- Costs: 3,500 USD
+> Introductory Video Call with Metallicus leadership
+- Align on mission, expectations, boundaries, and initial scope for Canada
+> On-Site Visit to San Francisco
+- Deep dive into Metal Blockchain tech stack, product suite, and regulatory positioning
+- Messaging guidance, technical enablement, and go-to-market (GTM) best practices for engaging financial institutions (strategy playbook)
+
+> <br />
+> <br />
+
+**Milestone 3**: Regulatory Engagement Track
 - Estimated duration: 10 months
 - FTE: 1
-- Costs: 0 USD
+- Costs: 7,000 USD
 
 > <br />
+> <br />
 
-- Milestone 4: Alignment & Strategic Onboarding
+- Milestone 4: Consulting & Tokenization Services
 - Estimated duration: 9 months
 - FTE: 1
-- Costs: 0 USD
+- Costs: 7,000 USD
 
+> <br />
 > <br />
 
 - Milestone 5: Alignment & Strategic Onboarding
 - Estimated duration: 9 months
 - FTE: 1
-- Costs: 0 USD
+- Costs: 10,000 USD
 
+> <br />
 > <br />
 
 - Milestone 6: Alignment & Strategic Onboarding
-- Estimated duration: 6 months
+- Estimated duration: 7 months
 - FTE: 1
-- Costs: 0 USD
+- Costs: 10,000 USD
 
+> <br />
 > <br />
 
 | ID | Deliverable | Specification |
