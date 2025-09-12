@@ -111,16 +111,18 @@
 > <br />
 > <br />
 
-| ID | Deliverable | Specification |
-| ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use our dApp. |
-| 0c. | Article | We will publish an **article** that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to XPR Network | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | API interface to our app | We will create an API that ... |  
+| Phase | Deliverable |
+| ----- | ------------- |
+| 1 | MIT / Apache 2.0 / GPLv3 / Unlicense |
+| 2 | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use our dApp. |
+| 3 | We will publish an **article** that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.) |
+| 4 | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
+| 5 | We will create a UI that connects to ... |  
+| 6 | We will create an API that ... |  
 
+> <br />
 > Link for Neutronix Technical Integration Workflow: https://urbanoid.github.io/neutronix-technical-integration/
+> <br />
 
 ### Future Plans
 
