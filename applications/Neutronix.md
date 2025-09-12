@@ -63,10 +63,35 @@
 
 ### Milestone Example
 
-- **Milestone:** 1
+- **Milestone:** 1: Alignment & Strategic Onboarding
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 2,000 USD
+- **FTE:**  1
+- **Costs:** 0 USD
+
+- **Milestone:** 2: Alignment & Strategic Onboarding
+- **Estimated duration:** 1 month
+- **FTE:**  1
+- **Costs:** 0 USD
+
+- **Milestone:** 3: Alignment & Strategic Onboarding
+- **Estimated duration:** 1 month
+- **FTE:**  1
+- **Costs:** 0 USD
+
+- **Milestone:** 4: Alignment & Strategic Onboarding
+- **Estimated duration:** 1 month
+- **FTE:**  1
+- **Costs:** 0 USD
+
+- **Milestone:** 5: Alignment & Strategic Onboarding
+- **Estimated duration:** 1 month
+- **FTE:**  1
+- **Costs:** 0 USD
+
+- **Milestone:** 6: Alignment & Strategic Onboarding
+- **Estimated duration:** 1 month
+- **FTE:**  1
+- **Costs:** 0 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
