@@ -92,6 +92,18 @@
 - Estimated duration: 10 months
 - FTE: 1
 - Costs: 7,000 USD
+> <br />
+> Regulatory Collaboration - Establish working dialogue with:
+- Office of the Superintendent of Financial Institutions (OSFI)
+- Bank of Canada (re: stablecoin frameworks)
+- FINTRAC (AML/ATF compliance)
+- Canadian Securities Administrators (re: tokenized securities)
+> <br />
+> Participate in consultations, whitepapers, and sandbox initiatives
+> <br />
+> <br />
+> Compliance Readiness Services
+- Launch Neutronix as a trusted compliance consultant for tokenization and stablecoin strategy for Canadian credit unions
 
 > <br />
 
@@ -99,22 +111,52 @@
 - Estimated duration: 9 months
 - FTE: 1
 - Costs: 10,000 USD
+> Neutronix expands into full-service blockchain consulting, beyond agency functions.
+> <br />
+> <br />
+> Neutronix Tokenization Services - Offer custom services to credit unions:
+- Asset tokenization (real estate, loans, insurance, equipment, vehicles, art, collectibles, etc.)
+- Smart contract recommendations
+- Custody integration
+- Regulatory filings and compliance pathways
+> <br />
+> Smart Templates & Protocol Kits
+- Develop plug-and-play tokenization blueprints for CUs
+- Launch stablecoin issuance packages for CUs wishing to use whitelabeled "XMountieD" coins as deposit tokens
 
 > <br />
 
 ## Milestone 5: Neutronix Labs Innovation Track
 - Estimated duration: 9 months
-- FTE: 1
+- FTE: 2
 - Costs: 10,000 USD
+> <br />
+> Project codename "XMountieD" - Canadian Stablecoin (akin to XMD)
+- 1:1 CAD-backed, reserve-verified
+- Tied into the Metallicus ecosystem, with native KYC/AML
+- Use cases like intra-union settlements, community e-commerce, and loans
+> <br />
+> Project codename "Elementary Particles" - Tokenized Real-World Assets (RWAs) published on classifieds
+- A universal, one-click classifieds widget for tokenized RWAs
+- Designed for community banks, credit unions, and members
+- Integrates fractionalization, smart contracts, and stablecoin payments (built by Metallicus)
 
 > <br />
 
 ## Milestone 6: Pilot + Proof of Value
 - Estimated duration: 7 months
-- FTE: 1
+- FTE: 2
 - Costs: 8,000 USD
-
 > <br />
+> Pilot Programs - Identify and launch 1 or 2 credit union partners for:
+- Whitelabled "XMountieD" stablecoins on their own subnets (minted by financial institutions)
+- Tokenized lending/payment flows
+- Blockchain-integrated member services
+> <br />
+> Impact Measurement
+- Demonstrate operational efficiency, member engagement, and regulatory compliance
+- Document case studies and produce a proof-of-value portfolio for Metallicus
+
 > <br />
 
 | Phase | Deliverable |
