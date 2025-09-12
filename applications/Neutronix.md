@@ -1,7 +1,7 @@
 - **Project Name:** Neutronix Agency - Canadian Roadmap for Metallicus
 - **Team Name:** Neutronix Inc.
 - **Payment Address:** @neutronix
-- **Level:** Company comprised of myself + subcontractors
+- **Level:** Company composed of myself + subcontractors
 - **Is Project Open-Source:** No
 - **Project has a token:** No
 - **Github Repo:** github.com/Urbanoid/grant-framework/blob/master/applications/Neutronix.md
