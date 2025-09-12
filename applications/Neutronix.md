@@ -14,7 +14,12 @@
 
 ### Project Details
 
-> Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
+> Neutronix enables rapid market entry for Metallicus by establishing a compliance-first, consultative channel to onboard Canadian credit unions to Metal Blockchain - driving MetalX utility and financial sector innovation.
+> 
+> What problem does it solve?
+> 
+> What is the current state of the project?
+> The project is still in its infancy, but it draws on my own experience coordinating startups and businesses. My passion and deep understanding of Metallicus's value proposition allow me to say without a shadow of a doubt that I have the necessary skills to advance Metallicus' cause in Canada.
 
 ### Ecosystem Fit
 
