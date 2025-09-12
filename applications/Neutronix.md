@@ -161,24 +161,28 @@
 
 | Phase | Deliverable |
 | ----- | ------------- |
+|   |  |
 | 1 | Canada Market Entry Playbook, summarizing messaging, local regulatory challenges, and GTM strategy by the end of Phase 1 |
+|   |  |
 | 2 | Stakeholder Map 30+ target institutions, ranked by readiness and fit; recommend Top 5 first-mover CU partners based on digital maturity and innovation appetite |
+|   |  |
 | 3 | At least 2 regulatory authority briefings (OSFI, FINTRAC, or CSA) scheduled and attended within 6 months. Submission of one whitepaper on behalf of Metallicus/Neutronix |
-| 4 | **Tokenization Service Kit Delivered**|
-|   | - Publish a comprehensive, modular set of service documents and blueprints for credit unions, including standardized onboarding materials and assist the Metallicus team in creating a sample smart contract template (for real estate, loans, etc.), by the end of Month 6 |
-|   | **Regulatory Compliance Package |
-|   | -  |
-|   | -  |
-|   | -  |
-| 5 | We will create a UI that connects to ... |
-|   | -  |
-|   | -  |
-|   | -  |
-|   | -  |
-|   | -  |
+|   |  |
+| 4 | *Tokenization Service Kit Delivered*: Publish a comprehensive, modular set of service documents and blueprints for credit unions, including standardized onboarding materials and assist the Metallicus team in creating a sample smart contract template (for real estate, loans, etc.), by the end of Month 6 |
+|   |  |
+|   | *Regulatory Compliance Package*:Produce and deliver a compliance checklist and sample regulatory filings for tokenized assets and stablecoins, tailored for Canadian financial institutions |
+|   |  |
+|   | *Partner Demo*: Conduct at least one live demonstration (virtual or in-person) with a potential pilot credit union or core banking vendor to showcase tokenization workflows and integration |
+|   |  |
+| 5 | *Stablecoin Technical Whitepaper*: Publish a technical and compliance whitepaper for Project “XMountieD”, detailing CAD backing, KYC/AML integration, and workflows for credit union issuance by Month 7 |
+|   |  |
+|   | *RWA Widget MVP*: Develop and deliver a minimum viable product (MVP) of “Elementary Particles”, the tokenized classifieds widget, including community bank/credit union demo accounts and documentation |
+|   |  |
+|   | *Innovation Briefings*: Host at least two innovation showcase events (webinars or roundtables) with Canadian credit unions and regulators to introduce “XMountieD” and “Elementary Particles”, collecting feedback and interest for pilot participation |
+|   |  |
 | 6 | Signed LOI with at least one credit union confirming intent to pilot possible variants of “XMountieD” and/or tokenized lending/borrowing by Month 6 to 8 |
 |   |  |
-|   | **KPIs** |
+| 1 to 6  | *KPIs & Accountability* |
 |   | - Target 10 direct outreach engagements by Month 3 |
 |   | - Stakeholder map and playbook delivered with prioritized CU/partner list |
 |   | - At least 2 regulatory meetings/briefings |
