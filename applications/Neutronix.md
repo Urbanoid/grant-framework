@@ -41,15 +41,15 @@
 
 > Phase 1: Alignment & Strategic Onboarding (Timeline: Week 1-4)
 > 
-> Phase 2: Foundation Building in Canada (Timeline: Month 2-4) = $7,000
+> Phase 2: Foundation Building in Canada (Timeline: Month 2-4)
 > 
-> Phase 3: Regulatory Engagement Track (Timeline: Month 3-12) = $7,000
+> Phase 3: Regulatory Engagement Track (Timeline: Month 3-12)
 > 
-> Phase 4: Consulting & Tokenization Services (Timeline: Month 4-12) = $10,000
+> Phase 4: Consulting & Tokenization Services (Timeline: Month 4-12)
 > 
-> Phase 5: Neutronix Labs Innovation Track (Parallel Timeline: Month 4-12) = $10,000
+> Phase 5: Neutronix Labs Innovation Track (Parallel Timeline: Month 4-12)
 > 
-> Phase 6: Pilot + Proof of Value (Timeline: Month 6-12) = $8,000
+> Phase 6: Pilot + Proof of Value (Timeline: Month 6-12)
 
 > <br />
 
@@ -69,7 +69,7 @@
 **Milestone 2**: Foundation Building in Canada
 - Estimated duration: 3 month
 - FTE: 1
-- Costs: 3,500 USD
+- Costs: 7,000 USD
 > Introductory Video Call with Metallicus leadership
 - Align on mission, expectations, boundaries, and initial scope for Canada
 > On-Site Visit to San Francisco
@@ -87,10 +87,10 @@
 > <br />
 > <br />
 
-- Milestone 4: Consulting & Tokenization Services
+**Milestone 4**: Consulting & Tokenization Services
 - Estimated duration: 9 months
 - FTE: 1
-- Costs: 7,000 USD
+- Costs: 10,000 USD
 
 > <br />
 > <br />
@@ -106,7 +106,7 @@
 - Milestone 6: Alignment & Strategic Onboarding
 - Estimated duration: 7 months
 - FTE: 1
-- Costs: 10,000 USD
+- Costs: 8,000 USD
 
 > <br />
 > <br />
