@@ -53,7 +53,7 @@
 
 > <br />
 
-**Milestone 1**: Alignment & Strategic Onboarding
+## Milestone 1: Alignment & Strategic Onboarding
 - Estimated duration: 1 month
 - FTE: 1
 - Costs: 0 USD
@@ -66,20 +66,26 @@
 > <br />
 > <br />
 
-**Milestone 2**: Foundation Building in Canada
-- Estimated duration: 3 month
+## Milestone 2: Foundation Building in Canada
+- Estimated duration: 3 months
 - FTE: 1
 - Costs: 7,000 USD
-> Introductory Video Call with Metallicus leadership
-- Align on mission, expectations, boundaries, and initial scope for Canada
-> On-Site Visit to San Francisco
-- Deep dive into Metal Blockchain tech stack, product suite, and regulatory positioning
-- Messaging guidance, technical enablement, and go-to-market (GTM) best practices for engaging financial institutions (strategy playbook)
+> Leveraging my established network within the Canadian blockchain, credit union, and fintech communities, I will initiate warm introductions and facilitate early conversations with key decision-makers at prospective first-mover credit unions, ensuring Neutronix benefits from immediate credibility and access to stakeholders highly receptive to innovation.
+> <br />
+> <br />
+> Legal Incorporation & Brand Launch
+- Establish Neutronix Agency as a Canadian consulting and integration firm
+- Set up Neutronix Labs as the innovation and product R&D arm
+> <br />
+> Stakeholder Mapping: Identify and engage using a provided CRM
+- Key credit unions and digital-forward CUs
+- Core banking software vendors (e.g., Fiserv, Celero, Temenos, etc.)
+- Regulatory bodies (e.g., OSFI, FINTRAC, Bank of Canada, CSA)
 
 > <br />
 > <br />
 
-**Milestone 3**: Regulatory Engagement Track
+## Milestone 3: Regulatory Engagement Track
 - Estimated duration: 10 months
 - FTE: 1
 - Costs: 7,000 USD
@@ -87,7 +93,7 @@
 > <br />
 > <br />
 
-**Milestone 4**: Consulting & Tokenization Services
+## Milestone 4: Consulting & Tokenization Services
 - Estimated duration: 9 months
 - FTE: 1
 - Costs: 10,000 USD
@@ -95,7 +101,7 @@
 > <br />
 > <br />
 
-- Milestone 5: Alignment & Strategic Onboarding
+## Milestone 5: Neutronix Labs Innovation Track
 - Estimated duration: 9 months
 - FTE: 1
 - Costs: 10,000 USD
@@ -103,7 +109,7 @@
 > <br />
 > <br />
 
-- Milestone 6: Alignment & Strategic Onboarding
+## Milestone 6: Pilot + Proof of Value
 - Estimated duration: 7 months
 - FTE: 1
 - Costs: 8,000 USD
