@@ -71,10 +71,12 @@
 
 ### Future Plans
 
-> Phase 7: Scale + National Integration (Timeline: Year 2+)
+Phase 7: Scale + National Integration (Timeline: Year 2+)
 >
 > Pan-Canadian Expansion: Localized strategy for Eastern Canada, Quebec, Ontario, the Prairies, Western Canada and the Northern Territories.
+> 
 > Vendor Partnerships: Open collaboration for technical integrations with major Canadian core banking software platforms.
+> 
 > Neutronix Labs Iteration: Refine “XMountieD” and "Elementary Particles” based on pilot feedback + Expand by implementing the Metallicus product line in other specialized financial use cases.
 
 
