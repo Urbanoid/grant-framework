@@ -14,25 +14,20 @@
 
 ### Project Details
 
-> Neutronix enables rapid market entry for Metallicus by establishing a compliance-first, consultative channel to onboard Canadian credit unions to Metal Blockchain - driving MetalX utility and financial sector innovation.
+> Neutronix enables rapid market entry for Metallicus by establishing a compliance-first, consultative channel to onboard Canadian credit unions to DeFi and RWA integration - driving MetalX utility and financial sector innovation.
 > 
-> What problem does it solve?
-> 
-> What is the current state of the project?
 > The project is still in its infancy, but it draws on my own experience coordinating startups and businesses. My passion and deep understanding of Metallicus's value proposition allow me to say without a shadow of a doubt that I have the necessary skills to advance Metallicus' cause in Canada.
 
 ### Ecosystem Fit
 
 > 1. Where and how does your project fit into the XPR Network ecosystem?
->
+>   
 >    MetalX is central to the project as the tokenized liquidity provided by Canadian CUs will be hosted on the XPR Network.
->
-> 
+>    
 > 2. Who is your target?
 > 
->    Canadians Credit Unions and other Canadian financial institutions because where there is tokenization to be done, Neutronix wants to help.
->
-> 
+>    Canadians CUs and other Canadian financial institutions because where there is tokenization to be done, Neutronix wants to help.
+>    
 > 3. What needs does your project meet for the community and what sets it apart from other similar projects?
 > 
 >    This is a broader intiative, in that it's a larger project aimed at attracting even more users and liquidity to the Metallicus ecosystem. This will benefit everyone, including $XPR, $MTL
