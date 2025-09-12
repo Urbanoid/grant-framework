@@ -64,7 +64,6 @@
 - Messaging guidance, technical enablement, and go-to-market (GTM) best practices for engaging financial institutions (strategy playbook)
 
 > <br />
-> <br />
 
 ## Milestone 2: Foundation Building in Canada
 - Estimated duration: 3 months
@@ -77,12 +76,16 @@
 - Establish Neutronix Agency as a Canadian consulting and integration firm
 - Set up Neutronix Labs as the innovation and product R&D arm
 > <br />
-> Stakeholder Mapping: Identify and engage using a provided CRM
+> Stakeholder Mapping - Identify and engage using a provided CRM:
 - Key credit unions and digital-forward CUs
 - Core banking software vendors (e.g., Fiserv, Celero, Temenos, etc.)
 - Regulatory bodies (e.g., OSFI, FINTRAC, Bank of Canada, CSA)
-
 > <br />
+>Education & Positioning - Private briefings for regulators and financial organizations on:
+- Compliance-first blockchain infrastructure
+- Metallicus presented as a native KYC/AML, ISO 20022, and digital identity stack
+- Regulatory pathways for stablecoin issuance in Canada
+
 > <br />
 
 ## Milestone 3: Regulatory Engagement Track
@@ -91,7 +94,6 @@
 - Costs: 7,000 USD
 
 > <br />
-> <br />
 
 ## Milestone 4: Consulting & Tokenization Services
 - Estimated duration: 9 months
@@ -99,14 +101,12 @@
 - Costs: 10,000 USD
 
 > <br />
-> <br />
 
 ## Milestone 5: Neutronix Labs Innovation Track
 - Estimated duration: 9 months
 - FTE: 1
 - Costs: 10,000 USD
 
-> <br />
 > <br />
 
 ## Milestone 6: Pilot + Proof of Value
