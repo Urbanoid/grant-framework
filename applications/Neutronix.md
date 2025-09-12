@@ -56,7 +56,7 @@
 | 2. | Front-End / User Interface | We will create a UI that connects to ... |  
 | 3. | API interface to our app | We will create an API that ... |  
 
-> Add more milestones as needed.
+> Link for Neutronix Technical Integration Workflow: https://urbanoid.github.io/neutronix-technical-integration/
 
 ### Future Plans
 
