@@ -208,4 +208,4 @@ Phase 7: Scale + National Integration (Timeline: Year 2+)
 
 ### Additional Information
 
-> I have immense respect for what Metallicus is accomplishing. XPR, and by extension, its entire ecosystem, has gradually become my favorite crypto project. Metallicus is tapping into a unique niche market, which gives me confidence that Metallicus will continue its path to success and that Neutronix can be one of the Canadian subsidiaries that brings this exceptional product line to my home country.
+> I have immense respect for what Metallicus is accomplishing. XPR, and by extension, its entire ecosystem, has gradually become my favorite crypto project. Metallicus is tapping into a unique niche market, which gives me confidence that it will continue its path to success and that Neutronix can be one of the Canadian subsidiaries that brings this exceptional product line to my home country.
