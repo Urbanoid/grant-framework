@@ -170,7 +170,7 @@
 |   |  |
 | 4 | *Tokenization Service Kit Delivered*: Publish a comprehensive, modular set of service documents and blueprints for credit unions, including standardized onboarding materials and assist the Metallicus team in creating a sample smart contract template (for real estate, loans, etc.), by the end of Month 6 |
 |   |  |
-|   | *Regulatory Compliance Package*:Produce and deliver a compliance checklist and sample regulatory filings for tokenized assets and stablecoins, tailored for Canadian financial institutions |
+|   | *Regulatory Compliance Package*: Produce and deliver a compliance checklist and sample regulatory filings for tokenized assets and stablecoins, tailored for Canadian financial institutions |
 |   |  |
 |   | *Partner Demo*: Conduct at least one live demonstration (virtual or in-person) with a potential pilot credit union or core banking vendor to showcase tokenization workflows and integration |
 |   |  |
