@@ -210,7 +210,7 @@ This initial funding will allow total dedication to launching Neutronix on stron
 >
 > Compensation will be reviewed alongside milestone achievement in monthly check-ins, ensuring full focus and accountability for each project phase.
 >
-> I have immense respect for what Metallicus is accomplishing. XPR, and by extension, all its ramifications, has gradually become my favorite crypto project. Metallicus is tapping into a unique niche market, which gives me confidence that it will continue its path to success and that Neutronix can be one of the Canadian subsidiaries that brings this exceptional product line to my home country.
+> I have immense respect for what Metallicus is accomplishing. XPR, and by extension, all of its offshoots, has gradually become my favorite crypto project. Metallicus is tapping into a unique niche market, which gives me confidence in its success and in Neutronix's ability to become one of the Canadian subsidiaries that will bring this exceptional product line to my home country.
 
 ### Founder's Bio
 
