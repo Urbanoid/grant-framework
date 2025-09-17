@@ -199,7 +199,7 @@ Scale + National Integration (Timeline: Year 2+)
 > Decentralized Autonomous Organizations (DAOs) and their governance aspects
 >
 > Project codename "Elementary Particles" - Tokenized Real-World Assets (RWAs) published on classifieds
-- A universal, one-click classifieds widget for tokenized RWAs
+- Develop and deliver a minimum viable product (MVP) for a universal, one-click classifieds widget for tokenized RWAs
 - Designed for community banks, credit unions, and members
 - Integrates fractionalization, smart contracts, and stablecoin payments
 
