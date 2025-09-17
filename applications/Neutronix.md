@@ -194,7 +194,7 @@ Scale + National Integration (Timeline: Year 2+)
 > 
 > Neutronix Labs Iteration: Refine “XMountieD” based on pilot feedback and expand by implementing the Metallicus product line in other specialized financial use cases
 >
-> Micropayments
+> PayFi and embedded payments (including micropayments)
 >
 > Decentralized Autonomous Organizations (DAOs) and their governance aspects
 >
