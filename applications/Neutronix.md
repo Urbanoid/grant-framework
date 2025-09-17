@@ -10,7 +10,7 @@
 
 - **Contact Name:** Mr. Pascal Houde
 - **Contact Email:** info@neutronix.io
-- **Website:** In process of being built ---- https://neutronix.io
+- **Website:** https://neutronix.io
 
 ### Project Details
 
@@ -22,7 +22,7 @@
 
 > 1. Where and how does your project fit into the XPR Network ecosystem?
 >   
->    MetalX is central to the project as the tokenized liquidity provided by Canadian CUs will be hosted on the XPR Network.
+>    MetalX is central to the project as the tokenized liquidity provided by Canadian Credit Unions (CUs) will be hosted on the XPR Network.
 >    
 > 2. Who is your target?
 > 
@@ -30,8 +30,7 @@
 >    
 > 3. What needs does your project meet for the community and what sets it apart from other similar projects?
 > 
->    This is a broader intiative, in that it's a larger project aimed at attracting even more users and liquidity to the Metallicus ecosystem. This will benefit everyone, including $XPR, $MTL
->    and $METAL holders.
+>    This is a broader intiative, in that it's a larger project aimed at attracting even more users and liquidity to the Metallicus ecosystem. This will benefit everyone, including $XPR, $LOAN, $MTL, and $METAL holders.
 
 ### Team
 
