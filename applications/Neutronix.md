@@ -56,7 +56,7 @@
 - Estimated duration: 1 month
 - FTE: 1
 - Costs: 0 USD
-> Introductory Video Call with Metallicus leadership
+> Introductory videocall with Metallicus leadership
 - Align on mission, expectations, boundaries, and initial scope for Canada
 > On-Site Visit to San Francisco
 - Deep dive into Metal Blockchain tech stack, product suite, and regulatory positioning
