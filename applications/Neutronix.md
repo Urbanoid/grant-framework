@@ -102,7 +102,7 @@
 > <br />
 > <br />
 > Compliance Readiness Services
-- Launch Neutronix as a trusted compliance consultant for tokenization and stablecoin strategy for Canadian credit unions
+- Launch Neutronix as a trusted compliance consultant for tokenization and stablecoin strategy for Canadian CUs
 
 > <br />
 
@@ -114,7 +114,7 @@
 > <br />
 > <br />
 > Neutronix Tokenization Services - Offer custom services to credit unions:
-- Asset tokenization (real estate, loans, insurance, equipment, vehicles, art, collectibles, etc.)
+- Asset tokenization (collateral, real estate, stocks & derivatives, insurance, DAFs, equipment, art, collectibles, etc.)
 - Smart contract recommendations
 - Custody integration
 - Regulatory filings and compliance pathways
