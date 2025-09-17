@@ -205,4 +205,15 @@ Scale + National Integration (Timeline: Year 2+)
 
 ### Additional Information
 
+> I am requesting the above-mentioned funds under a 6-month support contract, with the option to renew based on progress and mutual alignment.
+This initial funding will allow total dedication to launching Neutronix on strong foundations, without needing to take on other work. It will ensure the project keeps the momentum to succeed and evolve into a self-sustaining operation.
+>
+> Compensation will be reviewed alongside milestone achievement in monthly check-ins, ensuring full focus and accountability for each project phase.
+>
 > I have immense respect for what Metallicus is accomplishing. XPR, and by extension, all its ramifications, has gradually become my favorite crypto project. Metallicus is tapping into a unique niche market, which gives me confidence that it will continue its path to success and that Neutronix can be one of the Canadian subsidiaries that brings this exceptional product line to my home country.
+
+### Founder's Bio
+
+> Pascal Houde is a Canadian-born entrepreneur with a passion for DLTs and innovation in general. With a diverse background, he brings a unique mix of technical understanding, financial insight, and interpersonal skills. He’s driven by a commitment to process optimization and real-world adoption of decentralized finance.
+>
+> https://linkedin.com/in/pascal-houde/
