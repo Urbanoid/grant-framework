@@ -110,7 +110,7 @@
 - Estimated duration: 9 months
 - FTE: 1
 - Costs: 10,000 USD
-> Neutronix expands into full-service blockchain consulting, beyond agency functions.
+> Neutronix expands into full-service blockchain consulting.
 > <br />
 > <br />
 > Neutronix Tokenization Services - Offer custom services to credit unions:
