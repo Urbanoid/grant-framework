@@ -190,21 +190,21 @@
 
 Scale + National Integration (Timeline: Year 2+)
 >
-> Pan-Canadian Expansion: Localized strategy for Eastern Canada, Quebec, Ontario, the Prairies, Western Canada and the Northern Territories.
+> Pan-Canadian Expansion: Localized strategy for Eastern Canada, Quebec, Ontario, the Prairies, Western Canada and the Northern Territories
 > 
-> Vendor Partnerships: Open collaboration for technical integrations with major Canadian core banking software platforms.
+> Vendor Partnerships: Open collaboration for technical integrations with major Canadian core banking software platforms
 > 
-> Neutronix Labs Iteration: Refine “XMountieD” and "Elementary Particles” based on pilot feedback + Expand by implementing the Metallicus product line in other specialized financial use cases.
+> Neutronix Labs Iteration: Refine “XMountieD” based on pilot feedback and expand by implementing the Metallicus product line in other specialized financial use cases
 >
 > Micropayments
 >
-> Decentralized Autonomous Organizations (DAOs) and their governance aspects.
+> Decentralized Autonomous Organizations (DAOs) and their governance aspects
 >
 > Project codename "Elementary Particles" - Tokenized Real-World Assets (RWAs) published on classifieds
 - A universal, one-click classifieds widget for tokenized RWAs
 - Designed for community banks, credit unions, and members
-- Integrates fractionalization, smart contracts, and stablecoin payments (built by Metallicus)
-> <br />
+- Integrates fractionalization, smart contracts, and stablecoin payments
+
 ### Additional Information
 
 > I have immense respect for what Metallicus is accomplishing. XPR, and by extension, all its ramifications, has gradually become my favorite crypto project. Metallicus is tapping into a unique niche market, which gives me confidence that it will continue its path to success and that Neutronix can be one of the Canadian subsidiaries that brings this exceptional product line to my home country.
