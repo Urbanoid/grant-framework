@@ -34,7 +34,7 @@
 
 ### Team
 
-> This is a new initiative that will see the light of day if the project receives support from the community and, subsequently, from Metallicus. As the founder of Neutronix (Pascal Houde), a team of subcontractors will be assembled as Neutronix explores the field until it finds the necessary resources to hire employees for specific roles and functions. My main role will, of course, be to contact Canadian credit unions to raise awareness. At the same time, I will coordinate the initial steps by contacting all the authorities necessary to achieve the set objectives. Experts carefully selected by me will take over when specific accreditations are required. All advice from the Metallicus team will be taken seriously, and Neutronix will be happy to be at their dispoal, knowing that Metallicus has the required expertise and experience in the field.
+> This is a new initiative that will see the light of day if the project receives support from the community and, subsequently, from Metallicus. As the founder of Neutronix (Pascal Houde), a team of subcontractors will be assembled as Neutronix explores the field until it finds the necessary resources to hire employees for specific roles and functions. My main role will be to contact Canadian credit unions to raise awareness. At the same time, I will coordinate the initial steps by contacting all the authorities necessary to achieve the set objectives. Experts carefully selected by me will take over when specific accreditations are required. All advice from the Metallicus team will be taken seriously, and Neutronix will be happy to be at their dispoal, knowing that Metallicus has the required expertise and experience in the field.
 
 ### Roadmap
 
