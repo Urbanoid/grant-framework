@@ -114,14 +114,14 @@
 > <br />
 > <br />
 > Neutronix Tokenization Services - Offer custom services to credit unions:
-- Asset tokenization (collateral, real estate, stocks & derivatives, insurance, DAFs, equipment, art, collectibles, etc.)
+- Asset tokenization (collateral, real estate, stocks & derivatives, insurance, DAFs, equipment, art, collectibles, reputation, etc.)
 - Smart contract recommendations
 - Custody integration
 - Regulatory filings and compliance pathways
 > <br />
 > Smart Templates & Protocol Kits
 - Develop plug-and-play tokenization blueprints for CUs
-- Launch stablecoin issuance packages for CUs wishing to use whitelabeled "XMountieD" coins as deposit tokens
+- Launch stablecoin issuance packages for CUs wishing to use whitelabeled "XMountieD" as deposit tokens
 
 > <br />
 
@@ -201,6 +201,8 @@ Phase 7: Scale + National Integration (Timeline: Year 2+)
 > Vendor Partnerships: Open collaboration for technical integrations with major Canadian core banking software platforms.
 > 
 > Neutronix Labs Iteration: Refine “XMountieD” and "Elementary Particles” based on pilot feedback + Expand by implementing the Metallicus product line in other specialized financial use cases.
+>
+> Decentralized Autonomous Organizations (DAOs) and their governance aspects.
 
 
 
