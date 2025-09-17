@@ -133,12 +133,6 @@
 > Project codename "XMountieD" - Canadian Stablecoin (akin to XMD)
 - 1:1 CAD-backed, reserve-verified
 - Tied into the Metallicus ecosystem, with native KYC/AML
-- Use cases like intra-union settlements, community e-commerce, and loans
-> <br />
-> Project codename "Elementary Particles" - Tokenized Real-World Assets (RWAs) published on classifieds
-- A universal, one-click classifieds widget for tokenized RWAs
-- Designed for community banks, credit unions, and members
-- Integrates fractionalization, smart contracts, and stablecoin payments (built by Metallicus)
 
 > <br />
 
@@ -201,6 +195,11 @@ Phase 7: Scale + National Integration (Timeline: Year 2+)
 > Vendor Partnerships: Open collaboration for technical integrations with major Canadian core banking software platforms.
 > 
 > Neutronix Labs Iteration: Refine “XMountieD” and "Elementary Particles” based on pilot feedback + Expand by implementing the Metallicus product line in other specialized financial use cases.
+>
+> Project codename "Elementary Particles" - Tokenized Real-World Assets (RWAs) published on classifieds
+- A universal, one-click classifieds widget for tokenized RWAs
+- Designed for community banks, credit unions, and members
+- Integrates fractionalization, smart contracts, and stablecoin payments (built by Metallicus)
 >
 > Decentralized Autonomous Organizations (DAOs) and their governance aspects.
 
